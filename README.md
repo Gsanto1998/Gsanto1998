@@ -6,8 +6,8 @@
 Gsanto1998/Gsanto1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-!(https://user-images.githubusercontent.com/103608379/167506759-ede2324a-3c8b-4f75-9f55-a0d60aca0bff.png)(https://github.com/Gsanto1998)
-![image](https://www.instagram.com/guics_21/)
-(https://user-images.githubusercontent.com/103608379/167506825-53b6fe44-9673-442e-9b64-fb88e331db29.png)
-![image](https://www.linkedin.com/in/guilherme-camargos-santos21041998/)
-(https://user-images.githubusercontent.com/103608379/167506837-1fb9db84-2e83-4f55-8867-b69191219e41.png)
+![divulgaçãoPerfil3](https://user-images.githubusercontent.com/103608379/167508171-9939ddd7-037d-4ae6-95ed-bb03a9e5d9a3.png)
+
+[**GitHub**](https://github.com/Gsanto1998)
+[**Instagram**](https://www.linkedin.com/in/guilherme-camargos-santos21041998/)
+[**Linkedin**](https://www.linkedin.com/in/guilherme-camargos-santos21041998/)
