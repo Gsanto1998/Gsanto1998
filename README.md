@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 [**GitHub**](https://github.com/Gsanto1998)
 [**Instagram**](https://www.linkedin.com/in/guilherme-camargos-santos21041998/)
 [**Linkedin**](https://www.linkedin.com/in/guilherme-camargos-santos21041998/)
+[**Currículo**](https://github.com/Gsanto1998/Gsanto1998/files/8655800/GUILHERME_CAMARGOS_SANTOS.m2.pdf)
